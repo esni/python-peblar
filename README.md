@@ -19,5 +19,4 @@ This keeps backward compatibility for devices that return the field, while makin
 
 ## Validation
 
-- Ran: `pytest -o addopts= tests/test_peblar.py -q`
-- Result: `5 passed`
+My white-label (Chargepoint) charger has been connected to HA succesfully and has been stable for the past days
